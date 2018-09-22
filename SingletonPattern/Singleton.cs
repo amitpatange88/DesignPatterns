@@ -9,7 +9,7 @@ namespace SingletonPattern
     public sealed class Singleton
     {
         private int _count = 0;
-        private static Singleton instance = null;
+        private static Singleton instance = null; //Assigning null defines it is Lazy loading of object creations.
         private static readonly object obj = new object();
 
         public static Singleton Instance

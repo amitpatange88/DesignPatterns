@@ -3,4 +3,3 @@ C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\Single
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.pdb
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.exe
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.pdb
-C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache

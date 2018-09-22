@@ -1,0 +1,5 @@
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb

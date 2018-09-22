@@ -20,7 +20,7 @@ Design patterns can be divided into 3 categories.<br>
 <li><b>Structural Patterns</b> : These patterns deals with <i>Class and Object Composition</i>. </li>
 <li><b>Behavioural Patterns</b> : These mainly deals with <i>Class - Object communication</i>. That means they are concerned with the communication between class and objects. </li>
 </ol>In this article, I am going to discuss few examples of these patterns.<br>
-<br><br>
+<br>
 
 <table class="table table-condensed" style="width:100%;font-size:15px;">
     <tbody>
@@ -50,7 +50,7 @@ Design patterns can be divided into 3 categories.<br>
     </tbody>
 </table>
 
-<br><br>
+<br>
 
 <table class="table table-condensed" style="width:100%;font-size:15px;">
     <tbody>
@@ -88,7 +88,7 @@ Design patterns can be divided into 3 categories.<br>
 </tbody>
 </table>
 
-<br><br>
+<br>
 
 <table class="table table-condensed" style="width:100%;font-size:15px;">
                             <tbody><tr>
@@ -138,9 +138,9 @@ Design patterns can be divided into 3 categories.<br>
                                 <td>&nbsp;&nbsp;<a class="nobr" href="/net/visitor-design-pattern">Visitor</a></td>
                                 <td>Defines a new operation to a class without change</td>
                             </tr>
-                        </tbody></table>
+                        </tbody></table><br>
 
-                        <br><br>
+        
 
 You can Read the entire article from<br>
 <a href="http://www.dotnetfunda.com/articles/article889-design-pattern-implementation-using-csharp-.aspx">http://www.dotnetfunda.com/articles/article889-design-pattern-implementation-using-csharp-.aspx</a><br>

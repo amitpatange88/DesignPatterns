@@ -1,19 +1,19 @@
 <h1 style="color:#fff;">.NET Design Patterns</h1>
 <div class="post-body entry-content">
 <br>
-<span style="font-size: large;">What is Design Patterns ? </span><br>
+<span style="font-size: large;"><b>What is Design Patterns ? </b></span><br>
 <br>
 Design patterns may be said as a set of probable solutions for a particular problem which is tested to work best in certain situations. In other words, Design patterns, say you have found a problem. Certainly, with the evolution of software industry, most of the others might have faced the same problem once. Design pattern shows you the best possible way to solve the recurring problem.<br>
 <br>
-<span style="font-size: large;">Uses of Design Patterns </span><br>
+<span style="font-size: large;"><b>Uses of Design Patterns </b></span><br>
 <br>
 While creating an application, we think a lot on how the software will behave in the long run. It is very hard to predict how the architecture will work for the application when the actual application is built completely. There might issues which you cant predict and may come while implementing the software. Design patterns helps you to find tested proven design paradigm. Following design pattern will prevent major issues to come in future and also helps the other architects to easily understand your code.<br>
 <br>
-<span style="font-size: large;">History of Design Patterns </span><br>
+<span style="font-size: large;"><b>History of Design Patterns </b></span><br>
 <br>
 When the word design pattern comes into mind, the first thing that one may think is the classical book on Design Pattern "Gangs of Four" which was published by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.  In this book, it is first discussed capabilities and pitfalls of Object oriented programming, and later on it discusses about the classic Design Patterns on OOPS.<br>
 <br>
-<span style="font-size: large;">Types of Design Pattern</span><br>
+<span style="font-size: large;"><b>Types of Design Pattern</b></span><br>
 <br>
 Design patterns can be divided into 3 categories.<br>
 <ol><li><b>Creational Patterns</b> : These patterns deals mainly with creation of objects and classes. </li>

@@ -23,70 +23,74 @@ Design patterns can be divided into 3 categories.<br>
 <br><br>
 
 <table class="table table-condensed" style="width:100%;font-size:15px;">
-                            <tbody><tr>
-                                <td class="table-heading table-heading-simple" colspan="2">Creational Patterns</td>
-                            </tr>
-                            <tr>
-                                <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="/net/abstract-factory-design-pattern">Abstract Factory</a></td>
-                                <td style="width:70%;border:0;">Creates an instance of several families of classes</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/builder-design-pattern">Builder</a></td>
-                                <td>Separates object construction from its representation</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/factory-method-design-pattern">Factory Method</a></td>
-                                <td>Creates an instance of several derived classes</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/prototype-design-pattern">Prototype</a></td>
-                                <td>A fully initialized instance to be copied or cloned</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/singleton-design-pattern">Singleton</a></td>
-                                <td>A class of which only a single instance can exist</td>
-                            </tr>
-                        </tbody></table>
+    <tbody>
+        <tr>
+            <td class="table-heading table-heading-simple" colspan="2">Creational Patterns</td>
+        </tr>
+        <tr>
+            <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="/net/abstract-factory-design-pattern">Abstract Factory</a></td>
+            <td style="width:70%;border:0;">Creates an instance of several families of classes</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/builder-design-pattern">Builder</a></td>
+            <td>Separates object construction from its representation</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/factory-method-design-pattern">Factory Method</a></td>
+            <td>Creates an instance of several derived classes</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/prototype-design-pattern">Prototype</a></td>
+            <td>A fully initialized instance to be copied or cloned</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/singleton-design-pattern">Singleton</a></td>
+            <td>A class of which only a single instance can exist</td>
+        </tr>
+    </tbody>
+</table>
 
-                        <br><br>
+<br><br>
 
-                        <table class="table table-condensed" style="width:100%;font-size:15px;">
-                            <tbody><tr>
-                                <td class="table-heading table-heading-simple" colspan="2">Structural Patterns</td>
-                            </tr>
-                            <tr>
-                                <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="/net/adapter-design-pattern">Adapter</a></td>
-                                <td style="width:70%;border:0;">Match interfaces of different classes</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/bridge-design-pattern">Bridge</a></td>
-                                <td>Separates an object’s interface from its implementation</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/composite-design-pattern">Composite</a></td>
-                                <td>A tree structure of simple and composite objects</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/decorator-design-pattern">Decorator</a></td>
-                                <td>Add responsibilities to objects dynamically</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/facade-design-pattern">Facade</a></td>
-                                <td>A single class that represents an entire subsystem</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/flyweight-design-pattern">Flyweight</a></td>
-                                <td>A fine-grained instance used for efficient sharing</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;<a class="nobr" href="/net/proxy-design-pattern">Proxy</a></td>
-                                <td>An object representing another object</td>
-                            </tr>
-                        </tbody></table>
+<table class="table table-condensed" style="width:100%;font-size:15px;">
+    <tbody>
+        <tr>
+            <td class="table-heading table-heading-simple" colspan="2">Structural Patterns</td>
+        </tr>
+        <tr>
+            <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="/net/adapter-design-pattern">Adapter</a></td>
+            <td style="width:70%;border:0;">Match interfaces of different classes</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/bridge-design-pattern">Bridge</a></td>
+            <td>Separates an object’s interface from its implementation</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/composite-design-pattern">Composite</a></td>
+            <td>A tree structure of simple and composite objects</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/decorator-design-pattern">Decorator</a></td>
+            <td>Add responsibilities to objects dynamically</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/facade-design-pattern">Facade</a></td>
+            <td>A single class that represents an entire subsystem</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/flyweight-design-pattern">Flyweight</a></td>
+            <td>A fine-grained instance used for efficient sharing</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;<a class="nobr" href="/net/proxy-design-pattern">Proxy</a></td>
+            <td>An object representing another object</td>
+        </tr>
+</tbody>
+</table>
 
-                        <br><br>
+<br><br>
 
-                        <table class="table table-condensed" style="width:100%;font-size:15px;">
+<table class="table table-condensed" style="width:100%;font-size:15px;">
                             <tbody><tr>
                                 <td class="table-heading table-heading-simple" colspan="2">Behavioral Patterns</td>
                             </tr>
@@ -134,8 +138,9 @@ Design patterns can be divided into 3 categories.<br>
                                 <td>&nbsp;&nbsp;<a class="nobr" href="/net/visitor-design-pattern">Visitor</a></td>
                                 <td>Defines a new operation to a class without change</td>
                             </tr>
-                        </tbody></table><br><br>
+                        </tbody></table>
 
+                        <br><br>
 
 You can Read the entire article from<br>
 <a href="http://www.dotnetfunda.com/articles/article889-design-pattern-implementation-using-csharp-.aspx">http://www.dotnetfunda.com/articles/article889-design-pattern-implementation-using-csharp-.aspx</a><br>

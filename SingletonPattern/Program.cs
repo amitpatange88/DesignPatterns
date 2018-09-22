@@ -10,15 +10,25 @@ namespace SingletonPattern
     {
         static void Main(string[] args)
         {
-            Singleton s1 = new Singleton();
-            s1.PrintDetails("Customer");
-
-            Singleton s2 = new Singleton();
-            s2.PrintDetails("Employee");
-
+            //Multithreading voiltes the principle of Singleton pattern so lock the object
+            Parallel.Invoke(
+                ()=> PrintCustomer(),
+                ()=> PrintEmployee()
+                );
+        
             Console.ReadLine();
+        }
 
+        private static void PrintEmployee()
+        {
+            Singleton s2 = Singleton.Instance;
+            s2.PrintDetails("Employee");
+        }
 
+        private static void PrintCustomer()
+        {
+            Singleton s1 = Singleton.Instance;
+            s1.PrintDetails("Customer");
         }
     }
 }

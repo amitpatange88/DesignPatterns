@@ -1,0 +1,5 @@
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.pdb

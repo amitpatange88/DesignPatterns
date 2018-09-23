@@ -3,10 +3,6 @@
                     <div style=" font-size: 36px;color:#2b2727;line-height: 50px; padding-bottom:10px">
                         <h1>Factory Method Design Pattern - C# </h1></div>
                     <div>
-                                <div>
-                                        <a href="/mentor/shailendra ">
-                                            <img class="img-circle" style="width:50px;height: 50px; margin-top:2px" alt="" src="https://www.dotnettricks.com/uploads/mentorImages/620180730104436.jpg">
-                                        </a> </div>
                     </div>
                 </div>
                 <div style="clear: both; padding-top:6px; padding-bottom:15px">

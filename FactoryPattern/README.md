@@ -6,40 +6,11 @@
                                 <div>
                                         <a href="/mentor/shailendra ">
                                             <img class="img-circle" style="width:50px;height: 50px; margin-top:2px" alt="" src="https://www.dotnettricks.com/uploads/mentorImages/620180730104436.jpg">
-                                        </a>
-                                    <div style="color:#113cb5; padding: 0 10px 10px 10px;display: inline-block;text-align:left;width: 90%;
-    font-size: 17px;">
-                                        <a style="color: #2f75e8;" href="/mentor/shailendra "> Shailendra Chauhan</a>
-                                        <a href="javascript:void(0);" id="print" onclick="printDiv();" style="color: #f56b08;font-size: 15px;font-weight: 600;" class="pull-right"><i class="fa fa-print" aria-hidden="true"></i>&nbsp;Print&nbsp;</a>
-                                        <br>
-                                        <div style="font-size:13px ;color:#242424;width:100%;padding-top:8px">
-                                            <div class="col-xs-6 col-md-3" style="padding:0">
-                                                <span title="Posted On"> <i class="fa fa-calendar-plus-o"></i> 28 May 2013</span>
-                                            </div>
-                                            <div class="col-xs-6 col-md-3" style="padding:0;">
-                                                    <span title="Updated On"><i class="fa fa-calendar-check-o"></i> 29 Aug 2018</span>
-                                            </div>
-                                            <div class="col-xs-6 col-md-3" style="padding:0">
-                                                <span title="Level">
-                                                                                                            <span><i class="fa fa-signal" aria-hidden="true"></i> Intermediate</span>
-                                                                                                    </span>
-                                            </div>
-                                            <div class="col-xs-6 col-md-3" style="padding:0">
-                                                <span title="Total Views 215,974">
-                                                    <i class="fa fa-eye"></i>  215K
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                        </a> </div>
                     </div>
                 </div>
                 <div style="clear: both; padding-top:6px; padding-bottom:15px">
                     <p class="firstpara">The factory method design pattern abstract the process of object creation and allows the object to be created at run-time when it is required. Factory method pattern falls under Creational Pattern of <a href="http://www.dotnettricks.com/learn/designpatterns/gang-of-four-gof-design-patterns-in-net" class="link">Gang of Four (GOF) Design Patterns in .Net</a>. It is used to create objects. People usually use this pattern as the standard way to create objects. In this article, I would like to share what is factory pattern and how it works?</p>
-
-                
-                                            
-
 <h2>What is Factory Method Pattern?</h2>
 <p>In Factory pattern, we create the object without exposing the creation logic. In this pattern, an interface is used for creating an object, but let subclass decide which class to instantiate. The creation of object is done when it is required. The Factory method allows a class later instantiation to subclasses.</p>
 <p>In short, factory method design pattern abstract the process of object creation and allows the object to be created at run-time when it is required.</p>

@@ -20,6 +20,7 @@ namespace FactoryPattern
 
         private static void SimpleFactoryPattern(int EmpType)
         {
+            //In this case we achieved de-coupling. We actually do polymorphisim. Poly achieves decoupling.
             EmployeeManagerFactory empFactory = new EmployeeManagerFactory();
             IEmployeeManager emp = empFactory.GetEmployeeTypeObject(EmpType);
             decimal Pay = emp.GetPay();

@@ -1,7 +1,7 @@
 <div id="article" class="content ">
                 <div style="background: #f3f2f2;padding: 5px 15px 5px 15px;border-radius: 3px;">
                     <div style=" font-size: 36px;color:#2b2727;line-height: 50px; padding-bottom:10px">
-                        <h1>Factory Method Design Pattern - C# </h1></div>
+                        <h1>Factory Design Pattern</h1></div>
                     <div>
                     </div>
                 </div>

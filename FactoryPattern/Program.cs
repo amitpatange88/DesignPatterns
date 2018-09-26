@@ -14,15 +14,30 @@ namespace FactoryPattern
             //Code without using Factory Design Pattern
             WithoutUsingFactoryPattern(1);
 
-            //Apply Simple factory pattern.
-            SimpleFactoryPattern(2);
+            //Apply Simple factory pattern without RIP pattern..
+            SimpleFactoryPattern_WithoutUsing_RIP_Pattern(2);
+
+            //Apply Simple factory pattern without RIP pattern..
+            SimpleFactoryPattern_WithUsing_RIP_Pattern(3);
         }
 
-        private static void SimpleFactoryPattern(int EmpType)
+
+
+        private static void SimpleFactoryPattern_WithoutUsing_RIP_Pattern(int EmpType)
         {
             //In this case we achieved de-coupling. We actually do polymorphisim. Poly achieves decoupling.
             EmployeeManagerFactory empFactory = new EmployeeManagerFactory();
-            IEmployeeManager emp = empFactory.GetEmployeeTypeObject(EmpType);
+            IEmployeeManager emp = empFactory.GetEmployeeTypeObject_WithoutUsing_RIP_Pattern(EmpType);
+            decimal Pay = emp.GetPay();
+            decimal Bonus = emp.GetBonus();
+        }
+
+
+        private static void SimpleFactoryPattern_WithUsing_RIP_Pattern(int EmpType)
+        {
+            //In this case we achieved de-coupling. We actually do polymorphisim. Poly achieves decoupling.
+            EmployeeManagerFactory empFactory = new EmployeeManagerFactory();
+            IEmployeeManager emp = empFactory.GetEmployeeTypeObject_WithUsing_RIP_Pattern(EmpType);
             decimal Pay = emp.GetPay();
             decimal Bonus = emp.GetBonus();
         }

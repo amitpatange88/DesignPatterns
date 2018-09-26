@@ -26,7 +26,7 @@ namespace FactoryPattern.Factory
         /// </summary>
         /// <param name="EmpType"></param>
         /// <returns></returns>
-        public IEmployeeManager GetEmployeeTypeObject(int EmpType)
+        public IEmployeeManager GetEmployeeTypeObject_WithUsing_RIP_Pattern(int EmpType)
         {
             //RIP pattern : Replace If with Polymorphisim.
             return EmpDict[EmpType];
@@ -39,7 +39,7 @@ namespace FactoryPattern.Factory
         /// </summary>
         /// <param name="EmpType"></param>
         /// <returns></returns>
-        public IEmployeeManager GetEmployeeTypeObject_SameCopy(int EmpType)
+        public IEmployeeManager GetEmployeeTypeObject_WithoutUsing_RIP_Pattern(int EmpType)
         {
             IEmployeeManager Emp = null;
             if (EmpType == 1)

@@ -3,38 +3,7 @@
                     <div style=" font-size: 36px;color:#2b2727;line-height: 50px; padding-bottom:10px">
                         <h1>Builder Design Pattern - C# </h1>
                         </div>
-                    <div>
-                                <div>
-                                        <a href="/mentors/shailendra-chauhan">
-                                            <img class="img-circle" style="width:50px;height: 50px; margin-top:2px" alt="" src="https://dotnettricks.blob.core.windows.net/uploads/mentorImages/620180730104436.jpg">
-                                        </a>
-                                    <div style="color:#113cb5; padding: 0 10px 10px 10px;display: inline-block;text-align:left;width: 90%;
-    font-size: 17px;">
-                                        <a style="color: #2f75e8;" href="/mentors/shailendra-chauhan"> Shailendra Chauhan</a>
-                                        <a href="javascript:void(0);" id="print" onclick="printDiv();" style="color: #f56b08;font-size: 15px;font-weight: 600;" class="pull-right"><i class="fa fa-print" aria-hidden="true"></i>&nbsp;Print&nbsp;</a>
-                                        <br>
-                                        <div style="font-size:13px ;color:#242424;width:100%;padding-top:8px">
-                                            <div class="col-xs-6 col-md-3" style="padding:0">
-                                                <span title="Posted On"> <i class="fa fa-calendar-plus-o"></i> 04 Jun 2013</span>
-                                            </div>
-                                            <div class="col-xs-6 col-md-3" style="padding:0;">
-                                                    <span title="Updated On"><i class="fa fa-calendar-check-o"></i> 26 Sep 2016</span>
-                                            </div>
-                                            <div class="col-xs-6 col-md-3" style="padding:0">
-                                                <span title="Level">
-                                                                                                            <span><i class="fa fa-signal" aria-hidden="true"></i> Intermediate</span>
-                                                                                                    </span>
-                                            </div>
-                                            <div class="col-xs-6 col-md-3" style="padding:0">
-                                                <span title="Total Views 83,135">
-                                                    <i class="fa fa-eye"></i>  83.1K
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                    </div>
-                </div>
+                        </div>
                 <div style="clear: both; padding-top:6px; padding-bottom:15px">
                     <p class="firstpara">Builder pattern falls under Creational Pattern of <a href="http://www.dotnettricks.com/learn/designpatterns/gang-of-four-gof-design-patterns-in-net" class="link">Gang of Four (GOF) Design Patterns in .Net</a>. It is used to builds a complex object by using a step by step approach. It provides an interface for creating parts of a product. In this article, I would like share what is builder pattern and how is it work?</p>
 <h2>What is Builder Pattern?</h2>

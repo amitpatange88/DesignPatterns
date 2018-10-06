@@ -9,19 +9,20 @@ namespace BuilderPattern.Builder.ConcreteBuilder
 {
     class LaptopBuilder : ISystemBuilder
     {
+        ComputerSystemProduct laptop = new ComputerSystemProduct();
         public void AddDrive(string size)
         {
-            throw new NotImplementedException();
+            laptop.HDDSize = size;
         }
 
         public void AddMemory(string memory)
         {
-            throw new NotImplementedException();
+            laptop.RAM = memory;
         }
 
         public ComputerSystemProduct GetSystem()
         {
-            throw new NotImplementedException();
+            return laptop;
         }
     }
 }

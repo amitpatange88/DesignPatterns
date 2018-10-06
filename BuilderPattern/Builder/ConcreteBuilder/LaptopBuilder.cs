@@ -20,6 +20,21 @@ namespace BuilderPattern.Builder.ConcreteBuilder
             laptop.RAM = memory;
         }
 
+        public void AddMouse(string mouse)
+        {
+            return;
+        }
+
+        public void AddKeyBoard(string type)
+        {
+            laptop.KeyBoard = type;
+        }
+
+        public void AddTouchScreen(string enabled)
+        {
+            laptop.TouchScreen = enabled;
+        }
+
         public ComputerSystemProduct GetSystem()
         {
             return laptop;

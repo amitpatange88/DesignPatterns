@@ -42,11 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Builder\ConcreteBuilder\LaptopBuilder.cs" />
+    <Compile Include="Builder\ConcreteBuilder\DesktopBuilder.cs" />
+    <Compile Include="Builder\Director\ConfigurationBuilder.cs" />
+    <Compile Include="Builder\IBuilder\ISystemBuilder.cs" />
+    <Compile Include="Builder\Product\ComputerSystemProduct.cs" />
+    <Compile Include="ComputerSystem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

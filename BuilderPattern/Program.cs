@@ -1,4 +1,8 @@
-﻿using System;
+﻿using BuilderPattern.Builder.ConcreteBuilder;
+using BuilderPattern.Builder.Director;
+using BuilderPattern.Builder.IBuilder;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,10 +22,25 @@ namespace BuilderPattern
             string systemConfig = cs.GetSystem();
 
             //So we implement builder pattern here. Start Builer design pattern implementation.
+            Dictionary<string, string> collection = new Dictionary<string, string>();
+            collection["Drive"] = "8GB";
+            collection["Memory"] = "1TB";
+            collection["Mouse"] = "NA";
+            collection["KeyBoard"] = "MS";
+            collection["TouchScreen"] = "Enabled";
 
+            //Step:1 Concrete Builder
+            ISystemBuilder systemBuilder = new LaptopBuilder();
+            
+            //step:2 Director
+            ConfigurationBuilder builder = new ConfigurationBuilder();
+            builder.BuildSystem(systemBuilder, collection);
 
+            //Step:3 Return the system
+            ComputerSystemProduct product = systemBuilder.GetSystem();
 
-
+            //Step:4 Get Final Product info.
+            string SystemConfigDetails = product.GetFinalProduct(product);
         }
     }
 }

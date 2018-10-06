@@ -24,9 +24,11 @@ namespace BuilderPattern
 
         public string GetSystem()
         {
-            string system = string.Format("RAM {0}  and HDD {1}", _RAM, _HDDSize);
+            StringBuilder sb = new StringBuilder();
+            sb.Append(string.Format("RAM: {0}", _RAM));
+            sb.Append(string.Format("HDDSize: {0}", _HDDSize));
 
-            return system;
+            return sb.ToString();
         }
     }
 }

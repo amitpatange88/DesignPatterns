@@ -12,6 +12,12 @@ namespace BuilderPattern.Builder.IBuilder
 
         void AddDrive(string size);
 
+        void AddMouse(string mouse);
+
+        void AddKeyBoard(string type);
+
+        void AddTouchScreen(string enabled);
+
         ComputerSystemProduct GetSystem();
     }
 }

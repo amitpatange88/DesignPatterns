@@ -3,4 +3,3 @@ C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\bin\Debug\FactoryP
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
-C:\E\VS-Programs\DesignPatterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache

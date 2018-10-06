@@ -1,0 +1,5 @@
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.pdb

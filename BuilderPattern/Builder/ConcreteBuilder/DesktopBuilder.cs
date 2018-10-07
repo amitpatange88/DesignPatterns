@@ -15,14 +15,14 @@ namespace BuilderPattern.Builder.ConcreteBuilder
             desktop.HDDSize = size;
         }
 
-        public void AddKeyBoard(string type)
-        {
-            desktop.KeyBoard = type;
-        }
-
         public void AddMemory(string memory)
         {
             desktop.RAM = memory;
+        }
+
+        public void AddKeyBoard(string type)
+        {
+            desktop.KeyBoard = type;
         }
 
         public void AddMouse(string mouse)
@@ -38,6 +38,11 @@ namespace BuilderPattern.Builder.ConcreteBuilder
         public ComputerSystemProduct GetSystem()
         {
             return desktop;
+        }
+
+        public void AddProcessor(string ptype)
+        {
+            desktop.Processor = ptype;
         }
     }
 }

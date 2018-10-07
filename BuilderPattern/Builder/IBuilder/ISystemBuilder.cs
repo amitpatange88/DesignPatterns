@@ -18,6 +18,8 @@ namespace BuilderPattern.Builder.IBuilder
 
         void AddTouchScreen(string enabled);
 
+        void AddProcessor(string ptype);
+
         ComputerSystemProduct GetSystem();
     }
 }

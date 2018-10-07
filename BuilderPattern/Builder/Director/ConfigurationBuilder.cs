@@ -17,6 +17,7 @@ namespace BuilderPattern.Builder.Director
             systemBuilder.AddMouse(collection["Mouse"].ToString());
             systemBuilder.AddKeyBoard(collection["KeyBoard"].ToString());
             systemBuilder.AddTouchScreen(collection["TouchScreen"].ToString());
+            systemBuilder.AddTouchScreen(collection["Processor"].ToString());
         }
     }
 }

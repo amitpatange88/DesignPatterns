@@ -39,5 +39,10 @@ namespace BuilderPattern.Builder.ConcreteBuilder
         {
             return laptop;
         }
+
+        public void AddProcessor(string ptype)
+        {
+            laptop.Processor = ptype;
+        }
     }
 }

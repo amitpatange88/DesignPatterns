@@ -28,10 +28,16 @@ namespace BuilderPattern
             collection["Mouse"] = "NA";
             collection["KeyBoard"] = "MS";
             collection["TouchScreen"] = "Enabled";
+            collection["Processor"] = "I7";
 
-            //Step:1 Concrete Builder
-            ISystemBuilder systemBuilder = new LaptopBuilder();
-            
+            string computerConfig = GetSystemConfigurationObject(collection);
+        }
+
+        public static string GetSystemConfigurationObject(Dictionary<string, string> collection)
+        {
+            //Step:1 Concrete Builder building it for Laptop. Similary we can build it for DesktopBuilder.
+            ISystemBuilder systemBuilder = new LaptopBuilder(); //DesktopBuilder
+
             //step:2 Director
             ConfigurationBuilder builder = new ConfigurationBuilder();
             builder.BuildSystem(systemBuilder, collection);
@@ -41,6 +47,8 @@ namespace BuilderPattern
 
             //Step:4 Get Final Product info.
             string SystemConfigDetails = product.GetFinalProduct(product);
+
+            return SystemConfigDetails;
         }
     }
 }

@@ -13,6 +13,7 @@ namespace BuilderPattern
         public string Mouse { get; set; }
         public string KeyBoard { get; set; }
         public string TouchScreen { get; set; }
+        public string Processor { get; set; }
 
         public ComputerSystemProduct()
         {
@@ -26,6 +27,7 @@ namespace BuilderPattern
             sb.Append(string.Format("Mouse: {0}", obj.Mouse));
             sb.Append(string.Format("KeyBoard: {0}", obj.KeyBoard));
             sb.Append(string.Format("TouchScreen: {0}", obj.TouchScreen));
+            sb.Append(string.Format("Processor: {0}", obj.Processor));
 
             return sb.ToString();
         }

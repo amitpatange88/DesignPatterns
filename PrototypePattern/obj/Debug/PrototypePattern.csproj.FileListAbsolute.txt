@@ -3,3 +3,5 @@ C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\Protot
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.pdb
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.exe
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\Newtonsoft.Json.dll
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\Newtonsoft.Json.xml

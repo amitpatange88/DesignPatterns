@@ -1,0 +1,5 @@
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.pdb

@@ -5,3 +5,4 @@ C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\Protot
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.pdb
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\Newtonsoft.Json.dll
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\Newtonsoft.Json.xml
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache

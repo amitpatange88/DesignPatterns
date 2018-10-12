@@ -14,7 +14,8 @@ namespace SingletonPattern
         private int _count = 0;
         
         //Lazy loading is a thread safe. It automatically lock the object.
-        private static readonly Lazy<SingletonLazy> instance = new Lazy<SingletonLazy>(()=> new SingletonLazy()); //Assigning objects here only immplies Eager loading.
+        private static readonly Lazy<SingletonLazy> instance = new Lazy<SingletonLazy>(()=> new SingletonLazy()); 
+        //Assigning objects here only immplies lazy loading.
 
         public static SingletonLazy Instance
         {

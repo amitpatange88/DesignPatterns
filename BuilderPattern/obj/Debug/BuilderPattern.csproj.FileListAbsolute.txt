@@ -3,3 +3,4 @@ C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\bin\Debug\BuilderP
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.exe
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache

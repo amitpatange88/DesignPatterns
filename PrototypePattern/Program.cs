@@ -124,13 +124,17 @@ namespace PrototypePattern
         }
     }
 
-    //public partial class Employee : ICloneable
-    //{
-    //    public object Clone()
-    //    {
-    //        return this.MemberwiseClone();
-    //    }
-    //}
+
+    /// <summary>
+    /// No use class. In Future this will be removed.
+    /// </summary>
+    public partial class EmployeeBase : ICloneable
+    {
+        public object Clone()
+        {
+            return this.MemberwiseClone();
+        }
+    }
 
     public class Address
     {

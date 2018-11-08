@@ -1,0 +1,7 @@
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingFacade\obj\Debug\ShoppingFacade.csprojResolveAssemblyReference.cache
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingFacade\bin\Debug\ShoppingFacade.dll
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingFacade\bin\Debug\ShoppingFacade.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingFacade\bin\Debug\ShoppingCart.dll
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingFacade\bin\Debug\ShoppingCart.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingFacade\obj\Debug\ShoppingFacade.dll
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingFacade\obj\Debug\ShoppingFacade.pdb

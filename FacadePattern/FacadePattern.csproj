@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ShoppingFacade\ShoppingFacade.csproj">
+      <Project>{f11daef6-54fa-4bb4-9747-a863d69f01fb}</Project>
+      <Name>ShoppingFacade</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

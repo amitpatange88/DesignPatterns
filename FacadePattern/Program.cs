@@ -7,6 +7,8 @@ namespace FacadePattern
     /// Provides a unified interface to set a of interfaces in a subsystem. Facade defines a higher-lvel interface
     /// that makes subsystem easier to use.
     /// facade =~ frontage or face.
+    /// For client we only show : AddToCart and PlaceOrder options exposing these options only.
+    /// And in the backend we navigate to all options that is basically facade design pattern.
     /// </summary>
     public class Program
     {

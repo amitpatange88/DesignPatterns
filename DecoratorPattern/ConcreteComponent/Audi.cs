@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern.ConcreteComponent
 {
-    public class Audi : ICar
+    public sealed class Audi : ICar
     {
         public string Make => "Sedan";
         //public string Make

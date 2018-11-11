@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern.ConcreteComponent
 {
-    public class BMW : ICar
+    public sealed class BMW : ICar
     {
         public string Make => "HatchBack";
 

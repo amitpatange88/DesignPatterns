@@ -1,0 +1,6 @@
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.pdb

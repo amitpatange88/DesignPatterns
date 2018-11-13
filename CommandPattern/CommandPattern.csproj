@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassInvoker.cs" />
+    <Compile Include="ReopenExecute.cs" />
     <Compile Include="PrintExecute.cs" />
     <Compile Include="ExitExecute.cs" />
     <Compile Include="OpenExecute.cs" />

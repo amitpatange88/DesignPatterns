@@ -40,6 +40,10 @@ namespace CommandPattern
             {
                 //handle action for Exit command
             }
+            else if (strAction == "Reopen")
+            {
+
+            }
         }
     }
 }

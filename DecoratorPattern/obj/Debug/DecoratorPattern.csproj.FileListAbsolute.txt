@@ -3,4 +3,3 @@ C:\E\VS-Programs\DesignPatterns\DesignPatterns\DecoratorPattern\bin\Debug\Decora
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.exe
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
-C:\E\VS-Programs\DesignPatterns\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache

@@ -17,6 +17,7 @@ namespace CommandPattern
             _objList.Add(new OpenExecute());
             _objList.Add(new PrintExecute());
             _objList.Add(new ExitExecute());
+            _objList.Add(new ReopenExecute());
         }
 
         public IExecute CheckUsingCommandDesignPattern(string strCmd)

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingFacade", "ShoppingF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{4B4107EF-73E5-48E0-8AFA-3052D6240AC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{77760833-14D3-4949-B807-A3B012BDE45A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4B4107EF-73E5-48E0-8AFA-3052D6240AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B4107EF-73E5-48E0-8AFA-3052D6240AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B4107EF-73E5-48E0-8AFA-3052D6240AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77760833-14D3-4949-B807-A3B012BDE45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77760833-14D3-4949-B807-A3B012BDE45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77760833-14D3-4949-B807-A3B012BDE45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77760833-14D3-4949-B807-A3B012BDE45A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

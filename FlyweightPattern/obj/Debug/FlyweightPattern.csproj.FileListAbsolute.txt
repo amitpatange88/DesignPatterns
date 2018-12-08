@@ -1,0 +1,5 @@
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

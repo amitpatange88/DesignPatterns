@@ -2,3 +2,4 @@ C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingCart\bin\Debug\ShoppingCa
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingCart\bin\Debug\ShoppingCart.pdb
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingCart\obj\Debug\ShoppingCart.dll
 C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\E\VS-Programs\DesignPatterns\DesignPatterns\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache

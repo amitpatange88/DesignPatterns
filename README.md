@@ -36,8 +36,8 @@ Design patterns can be divided into 3 categories.<br>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/builder-design-pattern">Builder</a></td>
             <td>Separates object construction from its representation</td>
-            <td></td>
-            <td></td>
+            <td><a class="nobr" href="https://medium.com/@lexitrainerph/c-builder-pattern-constructing-objects-step-by-step-97b583246599">Example 01</a></td>
+            <td><a class="nobr" href="https://www.scholarhat.com/tutorial/designpatterns/builder-design-pattern">Example 02</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/factory-method-design-pattern">Factory Method</a></td>

@@ -28,7 +28,7 @@ Design patterns can be divided into 3 categories.<br>
             <td class="table-heading table-heading-simple" colspan="2">Creational Patterns</td>
         </tr>
         <tr>
-            <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="/net/abstract-factory-design-pattern">Abstract Factory</a></td>
+            <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="https://dotnettutorials.net/lesson/abstract-factory-design-pattern-csharp/">Abstract Factory</a> <a class="nobr" href="https://www.geeksforgeeks.org/abstract-factory-pattern/">Another Example</a></td>
             <td style="width:70%;border:0;">Creates an instance of several families of classes</td>
         </tr>
         <tr>

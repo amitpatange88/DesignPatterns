@@ -88,8 +88,8 @@ Design patterns can be divided into 3 categories.<br>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/decorator-design-pattern">Decorator</a></td>
             <td>Add responsibilities to objects dynamically</td>
-            <td></td>
-            <td></td>
+            <td><a class="nobr" href="https://www.youtube.com/watch?v=vNQ9fsptagc">Example 01</a></td>
+            <td><a class="nobr" href="https://refactoring.guru/design-patterns/decorator">Example 02</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/facade-design-pattern">Facade</a></td>

@@ -82,8 +82,8 @@ Design patterns can be divided into 3 categories.<br>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/composite-design-pattern">Composite</a></td>
             <td>A tree structure of simple and composite objects</td>
-            <td></td>
-            <td></td>
+             <td><a class="nobr" href="https://dotnettutorials.net/lesson/composite-design-pattern/">Example 01</a></td>
+            <td><a class="nobr" href="https://www.scholarhat.com/tutorial/designpatterns/composite-design-pattern">Example 02</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/decorator-design-pattern">Decorator</a></td>

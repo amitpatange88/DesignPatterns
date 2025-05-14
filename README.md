@@ -70,8 +70,8 @@ Design patterns can be divided into 3 categories.<br>
         <tr>
             <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="/net/adapter-design-pattern">Adapter</a></td>
             <td style="width:70%;border:0;">Match interfaces of different classes</td>
-            <td></td>
-            <td></td>
+             <td><a class="nobr" href="https://medium.com/@ravipatel.it/understanding-the-adapter-pattern-a-comprehensive-guide-with-example-in-c-35b2582a0603">Example 01</a></td>
+            <td><a class="nobr" href="https://www.geeksforgeeks.org/adapter-pattern/">Example 02</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/bridge-design-pattern">Bridge</a></td>

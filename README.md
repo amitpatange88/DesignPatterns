@@ -100,8 +100,8 @@ Design patterns can be divided into 3 categories.<br>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/flyweight-design-pattern">Flyweight</a></td>
             <td>A fine-grained instance used for efficient sharing</td>
-            <td></td>
-            <td></td>
+             <td><a class="nobr" href="https://www.youtube.com/watch?v=KtwdU2Vzde8">Example 01</a></td>
+            <td><a class="nobr" href="https://www.youtube.com/watch?v=RDV0ioVTF4g">Example 02</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/proxy-design-pattern">Proxy</a></td>

@@ -76,8 +76,8 @@ Design patterns can be divided into 3 categories.<br>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/bridge-design-pattern">Bridge</a></td>
             <td>Separates an object’s interface from its implementation</td>
-            <td></td>
-            <td></td>
+            <td><a class="nobr" href="https://www.geeksforgeeks.org/bridge-design-pattern/">Example 01</a></td>
+            <td><a class="nobr" href="https://dotnettutorials.net/lesson/bridge-design-pattern/">Example 02</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;<a class="nobr" href="/net/composite-design-pattern">Composite</a></td>

@@ -121,8 +121,8 @@ Design patterns can be divided into 3 categories.<br>
                             <tr>
                                 <td style="width:30%;border:0;">&nbsp;&nbsp;<a class="nobr" href="/net/chain-of-responsibility-design-pattern">Chain of Resp.</a></td>
                                 <td style="width:70%;border:0;">A way of passing a request between a chain of objects</td>
-                                <td></td>
-                                <td></td>
+                                <td><a class="nobr" href="https://www.scholarhat.com/tutorial/designpatterns/chain-of-responsibility-design-pattern">Example 01</a></td>
+                                <td><a class="nobr" href="https://www.dofactory.com/net/chain-of-responsibility-design-pattern">Example 02</a></td>
                             </tr>
                             <tr>
                                 <td>&nbsp;&nbsp;<a class="nobr" href="/net/command-design-pattern">Command</a></td>

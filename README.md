@@ -157,8 +157,8 @@ Design patterns can be divided into 3 categories.<br>
                             <tr>
                                 <td>&nbsp;&nbsp;<a class="nobr" href="/net/observer-design-pattern">Observer</a></td>
                                 <td>A way of notifying change to a number of classes</td>
-                                <td></td>
-                                <td></td>
+                                 <td><a class="nobr" href="https://dotnettutorials.net/lesson/observer-design-pattern/">Example 01</a></td>
+                                <td><a class="nobr" href="https://www.youtube.com/watch?v=-2B452ux9yQ">Example 01</a></td>
                             </tr>
                             <tr>
                                 <td>&nbsp;&nbsp;<a class="nobr" href="/net/state-design-pattern">State</a></td>
